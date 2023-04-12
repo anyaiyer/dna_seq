@@ -4,4 +4,4 @@ The distinction between pathogenic bacteria and nonpathogenic bacteria is essent
 
 Within the repository, code is contained for creating the initial BERT model for reading genetic sequences, and then a fine-tuned model for classifying sequences based on pathogeniticy. 
 Vocabulary sets, along with data (pathogenic and nonpathogenic bacteria) is outlined as well.
-Finally, the model can be found in "dnaBertTo", managing sequence lengths of 1200-1500. 
+Finally, the model can be found in "dnaBerTo", managing sequence lengths of 1200-1500. 
